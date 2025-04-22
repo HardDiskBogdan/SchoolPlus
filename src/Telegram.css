@@ -1,0 +1,31 @@
+.submitButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    background-color: orange;
+    color: rgb(223, 223, 223);
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.telegramContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.telegramForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(149, 149, 211);
+    margin: 20px;
+
+}
+

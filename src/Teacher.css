@@ -1,0 +1,113 @@
+.submitButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    background-color: orange;
+    color: rgb(223, 223, 223);
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.teContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.teacherForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(149, 149, 211);
+    margin: 20px;
+
+}
+
+.spisok {
+    background-color: white;
+    padding: 9px;
+    border-radius: 7px;
+    min-width: 300px;
+    font-weight: 600;
+    font-size: 18px;
+    border: 1px solid black
+}
+
+.mark {
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.savebutton {
+    padding: 10px;
+    background-color: orange;
+    border-radius: 7px;
+    color: aliceblue;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.selectmark {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 7px;
+    min-width: 100px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.publish-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .publish-button:hover {
+    background-color: #45a049;
+  }
+
+
+  .save-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .save-button:hover {
+    background-color: #45a049;
+  }
+
+  .save-button {
+    background-color: #4CAF50; /* Зеленый цвет */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .save-button:hover {
+    background-color: #45a049; /* Темно-зеленый при наведении */
+  }
+
+  
+  

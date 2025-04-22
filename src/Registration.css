@@ -1,0 +1,21 @@
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    width:150px;
+    input {margin: 10px;}
+}
+
+.Appp {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.roleSelect {
+    padding: 10px 20px;
+    width: 240px;
+    border-radius: 8px;
+    border: 2px solid black;
+}
